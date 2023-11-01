@@ -6,9 +6,9 @@ import { NavbarComponent } from './navbar/navbar.component';
 const routes: Routes = [
   {
     path: '', component: LayoutComponent,
-    children: [
-      { path: '', component: NavbarComponent }
-    ]
+    // children: [
+    //   { path: '', component: NavbarComponent }
+    // ]
   }
 ];
 
