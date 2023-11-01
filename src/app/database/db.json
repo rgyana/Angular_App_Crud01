@@ -1,0 +1,11 @@
+{
+    "products": [
+        {
+            "name": "5",
+            "price": "200",
+            "quantity": "5",
+            "category": "5",
+            "type": "5"
+        }
+    ]
+}
