@@ -16,6 +16,11 @@ import { OtpPageComponent } from './otp-page/otp-page.component';
   imports: [
     CommonModule,
     AuthRoutingModule
+  ],
+  exports: [
+    SignupComponent,
+    LoginComponent,
+    OtpPageComponent
   ]
 })
 export class AuthModule { }
